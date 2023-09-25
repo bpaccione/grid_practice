@@ -58,7 +58,13 @@ h1, h2{
 
 
 /******  Style the divs inside of the grid ******/
-
+.grid div{
+	border: 5px solid white;
+	background-color: rgba(231, 157, 224, 0.5);
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
 	/* 1. Give them a 5px solid white border */
 	
 	/* 2. Give them a background color of rgba(231, 157, 224, 0.5) */

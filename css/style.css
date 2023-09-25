@@ -19,26 +19,28 @@ h1, h2{
 
 
   /******* style the grid container  *******/
-
+.grid{
+	
   /* 1. Give it a width of 800px */
-
+	width: 800px;
   /* 2. Center it in the middle of the body */
-
+	margin: auto;
   /* 3. Set the display to grid */
-
+	display: grid;
   /* 4. Give it 3 columns of equal size (1fr each) */
-
+	grid-template-columns: 1fr 1fr 1fr;
   /* 5. Set a g rid gap of 10px */
-
+	gap: 10px;
   /* 6. Add a background color of #91f321 */
-
+	background-color: #91f321;
   /* 7. Give it a background image using the image in the images folder */
-
+	
   /* 8. Add a solid black 3px border */
 
   /* 9. Round the corners */
-
-
+	
+	
+}
 
 
 

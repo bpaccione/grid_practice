@@ -30,15 +30,15 @@ h1, h2{
   /* 4. Give it 3 columns of equal size (1fr each) */
 	grid-template-columns: 1fr 1fr 1fr;
   /* 5. Set a g rid gap of 10px */
-	gap: 10px;
+	grid-gap: 10px;
   /* 6. Add a background color of #91f321 */
 	background-color: #91f321;
   /* 7. Give it a background image using the image in the images folder */
 	
   /* 8. Add a solid black 3px border */
-
+	border: 3px solid black;
   /* 9. Round the corners */
-	
+	border-radius: 20px;
 	
 }
 

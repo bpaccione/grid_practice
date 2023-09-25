@@ -23,9 +23,10 @@ h1, h2{
 	width: 800px;
 	margin: auto;
 	display: grid;
-	grid-template-column: 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 10px;
 	background-color: #91f321;
+	background-image: url("../images/background.jpg");
 	border: 3px solid black;
 	border-radius: 20px;
 }
